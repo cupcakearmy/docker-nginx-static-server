@@ -1,3 +1,5 @@
+> ⚠️ Deprecated use [docker-static](https://github.com/cupcakearmy/docker-static)
+
 # Nginx Docker Static Files Server 🐳
 
 Small boilerplate for static serving the `./data` directory.
